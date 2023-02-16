@@ -1,7 +1,8 @@
-%%% Practica 2
-%% Creación de página web en HTML y CSS
+#Practica 2
+##Creación de página web en HTML y CSS
 
-%autor: Miguel Angel Fernandez Villar
+#Autor: Miguel Angel Fernandez Villar
+
 
 Esto es una página web creada con HTML y CSS La cual trata sobre el lorem ipsum. La página consta de una página principaly 3 páginas secundarias:
 
